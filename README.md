@@ -25,6 +25,25 @@ This repository contains the prototype for a Learning Management System (LMS) de
    - Students can purchase courses and access paid content.
 
 
+## Screenshots
+
+### Homepage
+![Homepage](client/public/HomePage.png)
+
+### Category And Sort prices Page
+![category](client/public/Search_and_sort_and_Category_Page.png)
+
+### Profile Page
+![prifile](client/public/Profile_page.png)
+
+### Couse details page
+![Course Details](client/public/course_details_Page.png)
+
+### Video Class Page
+![Class](client/public/Video_class_page.png)
+
+
+
 ## Tech Stack
 - **Backend**: Node.js with Express.js.
 - **Frontend**: React.js.
@@ -41,17 +60,12 @@ This repository contains the prototype for a Learning Management System (LMS) de
 1. Clone the repository:
    ```bash
    git clone https://github.com/uday778/EDUVID_LMS_Task
-   cd lms-prototype
+   cd EDUVID_LMS_Task
    ```
 
-2. Install dependencies:
-   ```bash
-   npm install
-   ```
-
-3. Set up environment variables:
+2. Set up environment variables:
    - Create a `.env` file in the root directory.
-   - Add required configuration:
+   - Add required configuration in server directory:
      ```
      MONGO_URI=<your-mongodb-connection-string>
      STRIPE_SECRET_KEY=<your-stripe-secret-key>
@@ -78,7 +92,7 @@ This repository contains the prototype for a Learning Management System (LMS) de
   
 ## Submission Details
 - Hosted Repository: https://github.com/uday778/EDUVID_LMS_Task
-- Submission Link: https://docs.google.com/forms/d/e/1FAIpQLSfpYLG2lzNXUfxj04_5hiK_VSPuX2ONdNxFrAQddKJl-BzfFg/viewform
+- Submission Link: ....
 
 ---
 For any queries, feel free to contact Uday33379@gmail.com.

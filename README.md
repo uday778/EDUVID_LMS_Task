@@ -59,7 +59,7 @@ This repository contains the prototype for a Learning Management System (LMS) de
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/uday778/EDUVID_LMS_Task
+   git clone https://github.com/uday778/EDUVID_LMS_Task.git
    cd EDUVID_LMS_Task
    ```
 
